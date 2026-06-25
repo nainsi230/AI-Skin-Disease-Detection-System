@@ -1,2 +1,3 @@
 # AI-Skin-Disease-Detection-System
 AI Skin Disease Detection System is a deep learning-based web application that analyzes skin images to predict possible skin diseases. It provides confidence scores, disease details, causes, symptoms, precautions, voice-assisted results, and downloadable PDF reports for quick and informative skin health assessment.
+This project uses computer vision and deep learning to detect skin diseases from uploaded images. It offers accurate predictions, confidence scores, disease insights, symptom analysis, precautions, voice assistance, and PDF-based medical summaries.
